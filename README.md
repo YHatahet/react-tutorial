@@ -1,2 +1,5 @@
 # react-tutorial
-Learning react
+
+## Tic-Tac-Toe
+
+Building a tic-tac-toe game using react for learning purposes.
